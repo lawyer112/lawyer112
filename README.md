@@ -1,11 +1,11 @@
 <h1 align="center">lawyer112</h1>
 
 <p align="center">
-  <strong>Local-first AI systems · Personal OS · Agent workflows · Private knowledge bases</strong>
+  <strong>I build the layer where AI stops chatting and starts closing loops.</strong>
 </p>
 
 <p align="center">
-  把碎片知识、业务流程和 AI Agent 连接成可执行、可复核、可部署的系统。
+  我做的是让 AI 真正干活的那一层：把想法、资料、任务、证据和复核连成闭环。
 </p>
 
 <p align="center">
@@ -13,57 +13,62 @@
     <img alt="Featured project" src="https://img.shields.io/badge/Featured-Personal%20OS%20%2B%20Wiki-0369a1">
   </a>
   <img alt="Focus" src="https://img.shields.io/badge/Focus-local--first%20AI-2ea44f">
-  <img alt="Custom systems" src="https://img.shields.io/badge/Builds-private%20AI%20workflows-7c3aed">
+  <img alt="Builds" src="https://img.shields.io/badge/Builds-private%20AI%20systems-7c3aed">
+  <img alt="Contact" src="https://img.shields.io/badge/QQ-1908734030-f97316">
 </p>
-
-I build local-first AI systems that turn messy personal or business knowledge into
-reviewable execution: tasks, evidence, agent workflows, and private knowledge bases.
-
-我关注的是一个很具体的问题：让 AI 不只是聊天，而是能围绕明确任务、
-证据、复核和长期知识库持续工作。
-
-中文能力简介：[`PROFILE.zh-CN.md`](./PROFILE.zh-CN.md)
 
 ## About / 个人介绍
 
-**English.** I design and build local-first AI systems for people and small teams
-who need private knowledge, explicit task state, and reviewable agent execution.
-My work connects notes, files, workflows, model gateways, and internal tools into
-systems that can be deployed, inspected, and improved over time.
+**English.** I build local-first AI systems for people and small teams who do not
+want AI to stay in a chat box. My work turns scattered notes, files, operations,
+model gateways, and agent output into a system with task state, evidence, review,
+and reusable project memory.
 
-**中文。** 我设计并落地本地优先的 AI 系统，主要服务于需要私有知识库、
-明确任务状态和可复核 Agent 执行流程的个人或小团队。我的工作是把笔记、
-文件、业务流程、模型网关和内部工具连成一个可以部署、可以审计、可以持续
-迭代的系统。
+**中文。** 我做本地优先的 AI 系统，服务于那些不想让 AI 只停留在聊天框里的人
+和小团队。我的工作是把碎片笔记、文件、业务流程、模型网关和 Agent 输出，
+变成有任务状态、有证据、有复核、有长期项目记忆的系统。
 
-## Focus
+```text
+messy input -> durable wiki -> executable tasks
+  -> agent work -> evidence -> review -> knowledge written back
+```
 
-- Local-first Personal OS, task state, and private knowledge systems
-- AI agent workflows: task claiming, evidence submission, review loops, memory boundaries
-- Markdown / wiki knowledge bases, knowledge graphs, and retrieval-ready project records
-- Practical automation for content, operations, business tools, and internal dashboards
-- Private deployment, LAN-first systems, OpenAI-compatible gateways, and workflow integration
+中文能力简介：[`PROFILE.zh-CN.md`](./PROFILE.zh-CN.md)
+
+## What I Build
+
+- Personal OS: task state, project momentum, review loops, and decision records
+- Personal Wiki: Markdown knowledge bases, project memory, and knowledge graphs
+- Agent workflows: task claiming, evidence submission, reviewer handoff, context replay
+- Local AI stacks: private deployment, LAN services, and OpenAI-compatible gateways
+- Automation workbenches: content, research, operations, dashboards, and internal tools
+- GitHub launch packaging: README positioning, releases, demos, issues, and onboarding
 
 ## Featured Project
 
 ### [Personal OS + Personal Wiki](https://github.com/lawyer112/personal-os-wiki)
 
-Local-first Personal OS + Markdown Wiki for AI agents. It combines a Next.js task
-execution surface with a Markdown knowledge base so agents can work from explicit
-state instead of stale chat history.
+An open-source local-first Personal OS plus Markdown Wiki for AI agents.
+
+It is not another notes app. It is the missing execution layer after collection:
+what should happen next, who or which agent owns it, what evidence proves it moved,
+and what gets written back into long-term knowledge.
 
 - Agent-ready task protocol: claim work, submit evidence, request review
 - Local-first data path with Docker demo and versioned release packages
 - Personal Wiki for durable notes, project records, and knowledge graph links
 - Latest public release: [v0.1.1](https://github.com/lawyer112/personal-os-wiki/releases/tag/v0.1.1)
 
-## What I Can Build
+## Custom Work
 
-- Personal or team knowledge base systems that connect notes, tasks, files, and AI agents
-- Custom local AI workbenches for research, writing, media production, or operations
-- Internal admin systems, dashboards, workflow tools, and data-backed business utilities
-- Private OpenAI-compatible model gateway integration and local-network automation
-- Repo packaging, public launch readiness, README positioning, and developer onboarding
+I can help turn a vague AI idea into a working private system:
+
+- personal or team knowledge base systems
+- AI agent task workbenches
+- local model gateway integration
+- internal admin systems and dashboards
+- content, research, writing, and media automation tools
+- public repo packaging and launch-readiness cleanup
 
 ## Contact
 
