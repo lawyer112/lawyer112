@@ -24,6 +24,18 @@ reviewable execution: tasks, evidence, agent workflows, and private knowledge ba
 
 中文能力简介：[`PROFILE.zh-CN.md`](./PROFILE.zh-CN.md)
 
+## About / 个人介绍
+
+**English.** I design and build local-first AI systems for people and small teams
+who need private knowledge, explicit task state, and reviewable agent execution.
+My work connects notes, files, workflows, model gateways, and internal tools into
+systems that can be deployed, inspected, and improved over time.
+
+**中文。** 我设计并落地本地优先的 AI 系统，主要服务于需要私有知识库、
+明确任务状态和可复核 Agent 执行流程的个人或小团队。我的工作是把笔记、
+文件、业务流程、模型网关和内部工具连成一个可以部署、可以审计、可以持续
+迭代的系统。
+
 ## Focus
 
 - Local-first Personal OS, task state, and private knowledge systems
