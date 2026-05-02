@@ -1,4 +1,20 @@
-# lawyer112
+<h1 align="center">lawyer112</h1>
+
+<p align="center">
+  <strong>Local-first AI systems · Personal OS · Agent workflows · Private knowledge bases</strong>
+</p>
+
+<p align="center">
+  把碎片知识、业务流程和 AI Agent 连接成可执行、可复核、可部署的系统。
+</p>
+
+<p align="center">
+  <a href="https://github.com/lawyer112/personal-os-wiki">
+    <img alt="Featured project" src="https://img.shields.io/badge/Featured-Personal%20OS%20%2B%20Wiki-0369a1">
+  </a>
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-local--first%20AI-2ea44f">
+  <img alt="Custom systems" src="https://img.shields.io/badge/Builds-private%20AI%20workflows-7c3aed">
+</p>
 
 I build local-first AI systems that turn messy personal or business knowledge into
 reviewable execution: tasks, evidence, agent workflows, and private knowledge bases.
