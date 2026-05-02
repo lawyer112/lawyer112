@@ -22,6 +22,8 @@ reviewable execution: tasks, evidence, agent workflows, and private knowledge ba
 我关注的是一个很具体的问题：让 AI 不只是聊天，而是能围绕明确任务、
 证据、复核和长期知识库持续工作。
 
+中文能力简介：[`PROFILE.zh-CN.md`](./PROFILE.zh-CN.md)
+
 ## Focus
 
 - Local-first Personal OS, task state, and private knowledge systems
