@@ -53,6 +53,10 @@ state instead of stale chat history.
 - Private OpenAI-compatible model gateway integration and local-network automation
 - Repo packaging, public launch readiness, README positioning, and developer onboarding
 
+## Contact
+
+- QQ: 1908734030
+
 ## Direction
 
 The long-term direction is a practical Personal OS: one place where human intent,
